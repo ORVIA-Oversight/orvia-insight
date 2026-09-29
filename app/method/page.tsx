@@ -1,0 +1,2 @@
+import { Method } from "@/components/Method";
+export default function MethodPage(){return <><section className="simple-hero"><div className="shell"><div className="eyebrow">EVIDENCE / METHOD</div><h1>Assessment should make reasoning visible, not hide it behind a score.</h1><p className="hero-lead">ORVIA Insight combines progressive evidence release, preserved response history, structured challenge and accountable human review.</p></div></section><Method/></>}
