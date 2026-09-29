@@ -1,0 +1,2 @@
+import { LeadCaptureForm } from "@/components/LeadCaptureForm";
+export default function Contact(){return <section className="section"><div className="shell discovery-grid"><div><div className="eyebrow">BOOK DISCOVERY</div><h1>Tell us what you need to assess.</h1><p className="hero-lead">Recruitment, development, leadership, safeguarding judgement or a broader organisational programme — we will scope the correct route before proposing price or delivery.</p></div><LeadCaptureForm productId="orvia-insight"/></div></section>}
