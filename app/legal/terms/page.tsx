@@ -1,0 +1,1 @@
+export default function Terms(){return <section className="section"><div className="shell reading"><div className="eyebrow">LEGAL</div><h1>Terms</h1><p>This page is a publication placeholder. Commercial and assessment-use terms must be approved before production release.</p></div></section>}
