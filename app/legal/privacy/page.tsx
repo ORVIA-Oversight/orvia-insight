@@ -1,0 +1,1 @@
+export default function Privacy(){return <section className="section"><div className="shell reading"><div className="eyebrow">LEGAL</div><h1>Privacy</h1><p>This page is a publication placeholder. ORVIA Insight requires a product-specific privacy notice covering assessment, recruitment and organisation-account processing before production release.</p></div></section>}
